@@ -1,0 +1,12 @@
+mtaxi\OrderStatusViewHandler.class
+mtaxi\PolicyHandler.class
+mtaxi\AbstractEvent$1.class
+mtaxi\OrderstatusApplication.class
+mtaxi\OrderCanceled.class
+mtaxi\OrderStatus.class
+mtaxi\Ordered.class
+mtaxi\OrderStatusRepository.class
+mtaxi\AbstractEvent.class
+mtaxi\OrderAgreed.class
+mtaxi\config\kafka\KafkaProcessor.class
+mtaxi\OrderDeclined.class
